@@ -74,7 +74,7 @@
 - 复数名词命名位域
 - 不要加类型名上加后缀：如：ColorFlag
 - 不要在类型的值上加前缀(与C++相反)：如：  
-```
+```C#
     public enum ImageMode {
         Bitmap  == 0,
         GrayScale = 1,
