@@ -1,3 +1,10 @@
+---
+layout: default
+title: .net命名规范
+---
+
+## {{ page.title }}
+
 ##.net命名规范
 --------
 ###**大小写**
